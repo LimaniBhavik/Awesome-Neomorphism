@@ -84,13 +84,14 @@
 - Articles
 - Videos
 - Template
+- [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
 - Example
 - Plugins
 - Frameworks
+- [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
 - Games
 - Open Source Apps
 - Web
-- [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
 - Books
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
 - Community
