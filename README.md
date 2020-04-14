@@ -1,5 +1,5 @@
 # Awesome Neomorphism
-An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
+- An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
 
 ### What is Skeuomorphism?
 - An ornament or design on an object copied from a form of the object when made from another material or by other techniques, as an imitation metal rivet mark found on handles of prehistoric pottery.
@@ -13,10 +13,15 @@ An awesome list that curates the best Neomorphism Concept & Neumorphic libraries
 <pre>                                <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Doric-order-labeled_%28cropped%29.jpg" alt="Ancient Greek temple" height="250" width="170"/></pre>
 
 ### History of Skeuomorph Design Web | Mobile | Dekstop
-The history of skeuomorph design can be traced back to Steve Jobs who was a big advocate of computer interfaces using skeuomorphic design. Think back to the earlier versions of iOS software, with the leather binding in the Calendar app and the Contacts app which looked like a physical address book.
+- The history of skeuomorph design can be traced back to Steve Jobs who was a big advocate of computer interfaces using skeuomorphic design. Think back to the earlier versions of iOS software, with the leather binding in the Calendar app and the Contacts app which looked like a physical address book.
 
 
-## List of Books for the Skeuomorphism
+## List of Articles | Books for the Skeuomorphism
+- [Digital skeuomorphism](http://thatkeith.com/articles/digital-skeuomorphism/) - Articles
+
+## List of Video for the Skeuomorphism
+- [Skeuomorphism: Dan O'Hara at TEDxManchester](https://www.youtube.com/watch?v=kpFKsC4mi5I)
+
 ## List of Books for the Neumorphism
 
 ### What is Neumorphism?
@@ -63,6 +68,7 @@ The history of skeuomorph design can be traced back to Steve Jobs who was a big 
 - Videos
 - Template
 - Example
+- [Clay Containers](https://github.com/mcaubrey/clay_containers) by [Michael Aubrey](https://github.com/mcaubrey)
 - Plugins
 - Frameworks
 - Games
@@ -71,4 +77,35 @@ The history of skeuomorph design can be traced back to Steve Jobs who was a big 
 - Books
 - Community
 
-<img src="https://camo.githubusercontent.com/2e109019cf632adc00b7f22725cf3ea61de9a6e2/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6d636136323531312f696d6167652f75706c6f61642f76313537393834373636382f62616e6e65725f7a78367072642e706e67" alt="Clay Containers - Flutter Neumorphic" height="150" width="350"><a href="https://github.com/mcaubrey/clay_containers">Clay Containers</a> by <a href="https://github.com/mcaubrey">Michael Aubrey</a>
+
+## Web
+#### Contents for Web Neumorphic
+
+- Articles
+- Videos
+- Template
+- Example
+- Plugins
+- Frameworks
+- Games
+- Open Source Apps
+- Web
+- [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
+- Books
+- [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
+- Community
+
+## Design Trends Neumorphism
+
+- Articles
+- [Skeuomorphism / Neumorphism UI Trend](https://medium.muz.li/skeuomorphism-neumorphism-ui-trend-e7b78792bd21) by Masterpicks
+- Videos
+- Template
+- Example
+- Plugins
+- Frameworks
+- Games
+- Open Source Apps
+- Web
+- Books
+- Community
