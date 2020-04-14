@@ -34,6 +34,8 @@
 #### Contents for iOS Neumorphic
 
 - Articles
+- [A swift guide to better typography for iOS
+](https://uxdesign.cc/a-five-minute-guide-to-better-typography-for-ios-4e3c2715ceb4) by [Pranav Ambwani](https://uxdesign.cc/@pranavambwani)
 - Videos
 - Template
 - Example
@@ -83,28 +85,37 @@
 
 - Articles
 - Videos
-- Template
+# Template
 - [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
-- Example
+# Example
+- [Google Play Store Apps - Analysis Neumorphism](https://public.tableau.com/views/GooglePlayStoreApps-AnalysisNeumorphism/Dashboard?:display_count=y&:origin=viz_share_link) by [Pradeep Kumar](https://twitter.com/pradeep_zen)
+- [CSS LOGIC GATES - Neumorphic](https://codepen.io/MananTank/pen/mdeJVVL) by [Manan Tank](https://twitter.com/Manan__Tank)
+- [Neu Times! - Neumorphic](https://codepen.io/MananTank/pen/bGdOedL) by [Manan Tank](https://twitter.com/Manan__Tank)
+- [How To Create A Nuemorphism Search Bar Design HTML CSS](https://www.youtube.com/watch?v=OUV359LbXIc) by [Bright K. Isaac](https://twitter.com/BrightCode1)
 - Plugins
-- Frameworks
+# Frameworks
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
 - Games
 - Open Source Apps
-- Web
+# Web
 - [Neumorphism is a play on words based on New + Skeuomorphism.](https://neumorphism.com/) by Neumorphism.
-- Books
+# Books
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
 - Community
 
 ## Design Trends Neumorphism
 
-- Designs
+# Designs
 - [Neumorphism - Inspirational Designs, illustrations, and graphic elements from the world’s best designers](https://dribbble.com/tags/neumorphism) on [Dribbble](https://dribbble.com)
-- Articles
+# Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
 - [Is Neumorphism really 2020's hottest design trend?](https://www.creativebloq.com/news/neumorphism) by [Jim McCauley](https://twitter.com/JimMcCauley)
-- Videos
+- [Neumorphism the right way — A 2020 Design Trend](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a) by [David Ofiare](https://twitter.com/artofofiare)
+- [Neumorphism. The Next Big Thing In UI Design?](https://medium.com/@openGeeksLab/neumorphism-the-next-big-thing-in-ui-design-11e703df3ab0) by [openGeekslab](https://twitter.com/openGeekslab)
+- [Neumorphism: why it’s all the hype in UI design](https://www.justinmind.com/blog/neumorphism-ui/) by Rebeca Costa
+- 
+# Videos
+- [Could this be the BIGGEST UI Design Trend of 2020? #Neumorphism](https://www.youtube.com/watch?v=KlSLdEB3lzg) by [Gary Simon](https://twitter.com/designcoursecom)
 - Template
 - Example
 - Plugins
