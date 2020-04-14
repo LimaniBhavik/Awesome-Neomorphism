@@ -1,6 +1,5 @@
 # Awesome Neomorphism
-An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more.
-
+An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
 
 ### What is Skeuomorphism?
 - An ornament or design on an object copied from a form of the object when made from another material or by other techniques, as an imitation metal rivet mark found on handles of prehistoric pottery.
