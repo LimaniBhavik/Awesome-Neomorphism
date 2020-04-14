@@ -92,6 +92,7 @@
 - [CSS LOGIC GATES - Neumorphic](https://codepen.io/MananTank/pen/mdeJVVL) by [Manan Tank](https://twitter.com/Manan__Tank)
 - [Neu Times! - Neumorphic](https://codepen.io/MananTank/pen/bGdOedL) by [Manan Tank](https://twitter.com/Manan__Tank)
 - [How To Create A Nuemorphism Search Bar Design HTML CSS](https://www.youtube.com/watch?v=OUV359LbXIc) by [Bright K. Isaac](https://twitter.com/BrightCode1)
+- [Tutorial: Neomorphism with CSS](https://dev.to/alexgomez88/tutorial-neomorphism-with-css-2al2) by [Alejandro Augusto Gomez Rodriguez](https://github.com/alexgomez88)
 #### Plugins
 #### Frameworks
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
