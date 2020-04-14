@@ -67,11 +67,17 @@
 #### Contents for Flutter Neumorphic
 
 #### Articles
+- [Neumorphic designs with Flutter](https://medium.com/flutter-community/neumorphic-designs-in-flutter-eab9a4de2059) by [Ivan Cherepanov](https://medium.com/@av.codes)
+- 
 #### Videos
 #### Template
 #### Example
+- [Neumorphic ui kit for Flutter, 🕶️ dark mode compatible](https://github.com/Idean/Flutter-Neumorphic) by [Idean](https://www.idean.com/)
+- [A Flutter package implement neumorphism design container with implicit animation](https://github.com/Kurogoma4D/animated_neumorphic) by [Kurogoma4D](https://github.com/Kurogoma4D)
 #### [Clay Containers](https://github.com/mcaubrey/clay_containers) by [Michael Aubrey](https://github.com/mcaubrey)
-#### Plugins
+#### Package (Pub)
+- A complete, ready to use, Neumorphic ui kit for Flutter. Dark theming compatible & fully customizable (https://pub.dev/packages/flutter_neumorphic) by [Idean](https://www.idean.com/)
+- [neumorphic 0.3.0](https://github.com/neumorphic/neumorphic.flutter) by [Serge Software](https://serge.software/)
 #### Frameworks
 #### Games
 #### Open Source Apps
@@ -109,6 +115,8 @@
 
 #### Designs
 - [Neumorphism - Inspirational Designs, illustrations, and graphic elements from the world’s best designers](https://dribbble.com/tags/neumorphism) on [Dribbble](https://dribbble.com)
+- [Designers & Developers who get the best UI Design Inspiration](https://uimovement.com/tag/neumorphism/) by [UIMovement](https://uimovement.com)
+
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
 - [Is Neumorphism really 2020's hottest design trend?](https://www.creativebloq.com/news/neumorphism) by [Jim McCauley](https://twitter.com/JimMcCauley)
