@@ -92,14 +92,18 @@
 - Games
 - Open Source Apps
 - Web
+- [Neumorphism is a play on words based on New + Skeuomorphism.](https://neumorphism.com/) by Neumorphism.
 - Books
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
 - Community
 
 ## Design Trends Neumorphism
 
+- Designs
+- [Neumorphism - Inspirational Designs, illustrations, and graphic elements from the world’s best designers](https://dribbble.com/tags/neumorphism) on [Dribbble](https://dribbble.com)
 - Articles
-- [Skeuomorphism / Neumorphism UI Trend](https://medium.muz.li/skeuomorphism-neumorphism-ui-trend-e7b78792bd21) by Masterpicks
+- [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
+- [Is Neumorphism really 2020's hottest design trend?](https://www.creativebloq.com/news/neumorphism) by [Jim McCauley](https://twitter.com/JimMcCauley)
 - Videos
 - Template
 - Example
