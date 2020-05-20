@@ -43,7 +43,8 @@
 #### Example
 - [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
 - [SwiftUI utility to build Neumorphism Soft UI](https://github.com/costachung/neumorphic) by [Costa Chung](https://twitter.com/costachung)
-
+- [UIKit views with Neumorphism](https://github.com/hirokimu/EMTNeumorphicView) by [Hironobu Kimura](https://github.com/hirokimu)
+- 
 #### Plugins
 - [NeumorphismTab](https://cocoapods.org/pods/NeumorphismTab) by [Fujii Yosuke](https://github.com/touyou)
 - 
@@ -99,9 +100,11 @@
 
 #### Articles
 #### Videos
+- [React Native - Making Neumorphic smooth Button!](https://www.youtube.com/watch?v=9It1KchDkCo) by [DevasLife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ)
 #### Template
 #### Example
 - [React Native components based on the concept of Neumorphism](https://github.com/usamamoinakhter/Neumorphism-ui) by [Usama Moin](https://github.com/usamamoinakhter)
+- [Neo Skeuomorphism Style Simple UI](https://github.com/craftzdog/react-native-skeuomorphism-ui-example) by [Takuya Matsuyama](https://github.com/craftzdog)
 - 
 #### Plugins
 #### Frameworks
@@ -118,6 +121,8 @@
 
 #### Articles
 #### Videos
+- [Writing CSS for Neomorphism Design as easy as Possible](https://www.youtube.com/watch?v=Gv0dy51SYL0) by [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
+- 
 #### Template
 - [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
 #### Example
@@ -160,6 +165,8 @@
 - [Neumorphism Button Animation](https://dribbble.com/shots/10140479-Neumorphism-button-animation) by [Moli_xEs](https://dribbble.com/Moli_xEs)
 - [E-Commerce Website Neumorphism](https://dribbble.com/shots/11065349-E-commerce) by [Cezara Felicia](https://dribbble.com/CezaraFelicia)
 - [Creative Bot - Onboarding Dashboard Neumorphism](https://dribbble.com/shots/10209058-Creative-Bot-Onboarding-Dashboard) by [Valentin Salmon](https://dribbble.com/ValentinSalmon)
+- [Neo Spotify Skeuomorphism/Neumorphism](https://dribbble.com/shots/9356756-Neo-Spotify-Skeuomorphism-neumorphism) by [David Ofiare](https://dribbble.com/artofofiare)
+- 
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
@@ -171,8 +178,13 @@
 
 #### Videos
 - [Could this be the BIGGEST UI Design Trend of 2020? #Neumorphism](https://www.youtube.com/watch?v=KlSLdEB3lzg) by [Gary Simon](https://twitter.com/designcoursecom)
-#### Template
+- [Soft UI Design in Adobe XD - Neumorphism](https://www.youtube.com/watch?v=G9yCM_rnC-w) by [Dansky](https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA)
+- 
+
+#### Template | UI Kit | Component | Resources
 - [Neumorphism UI Elements for Sketch](https://www.uistore.design/items/neumorphic-ui-elements-for-sketch/) by [MazePixel](https://www.mazepixel.com/)
+- [Neumorphism | FREE UI KIT](https://www.behance.net/gallery/93357363/Neumorphism-FREE-UI-KIT) by [Daniel Mitev](https://www.behance.net/danielmitevbg)
+
 #### Example
 #### Plugins
 
