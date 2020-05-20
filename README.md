@@ -122,7 +122,8 @@
 #### Articles
 #### Videos
 - [Writing CSS for Neomorphism Design as easy as Possible](https://www.youtube.com/watch?v=Gv0dy51SYL0) by [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
-- 
+- [Neomorphism Login Page Black Dark Color- HTML & CSS ](https://www.youtube.com/watch?v=CNh2ESuCURg) by [HTML and CSS Tips And Tricks](https://www.youtube.com/channel/UC7hOMzEOcGaUTdFtiTvt0bQ/)
+- [Neomorphic Login Light Color Form Design with HTML, CSS and Javascript](https://www.youtube.com/watch?v=yZhbKkxFcN0) by [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 #### Template
 - [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
 #### Example
@@ -131,6 +132,8 @@
 - [Neu Times! - Neumorphic](https://codepen.io/MananTank/pen/bGdOedL) by [Manan Tank](https://twitter.com/Manan__Tank)
 - [How To Create A Nuemorphism Search Bar Design HTML CSS](https://www.youtube.com/watch?v=OUV359LbXIc) by [Bright K. Isaac](https://twitter.com/BrightCode1)
 - [Tutorial: Neomorphism with CSS](https://dev.to/alexgomez88/tutorial-neomorphism-with-css-2al2) by [Alejandro Augusto Gomez Rodriguez](https://github.com/alexgomez88)
+- [Sharing Buttons Neomorphism (HTML & CSS)](https://github.com/Godsont/Neomorphism) by [Godson Thomas](https://github.com/Godsont)
+-
 #### Plugins
 #### Frameworks
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
