@@ -151,6 +151,15 @@
 - [Tesla Smart App](https://dribbble.com/shots/10196092-Tesla-Smart-App) by [Gavrisov Dmitri](https://dribbble.com/GavrisovDmitri)
 - [Player App UI](https://dribbble.com/shots/9660694-Player-app-UI-Night-version) by [Anton Skvortsov](https://dribbble.com/AntonSKV)
 - [Growing 🌿 App](https://dribbble.com/shots/11207721-Growing-App) by [Sèrgi Mi](https://dribbble.com/SergiMi)
+- [Sceumorphic Dashboard](https://dribbble.com/shots/10846939-Sceumorphic-Dashboard) by [uixNinja](https://dribbble.com/uixninja)
+- [Admin Template Neumorphic Design](https://dribbble.com/shots/11447122-Neumorphic-Design) by [Accubits Technologies Inc](https://dribbble.com/accubits)
+- [Book Subscription App 📖](https://dribbble.com/shots/9532828-Book-Subscription-App) by [Ariel Jędrzejczak](https://dribbble.com/arielone)
+- [Freebie Neumorphic UX UI Elements](https://dribbble.com/shots/9527558-Freebie-Neumorphic-UX-UI-Elements) by [Emy Lascan](https://dribbble.com/mazepixel)
+- [3D Fingerprint Scanner](https://dribbble.com/shots/9552931-3D-Fingerprint-Scanner) by [Voicu Apostol](https://dribbble.com/cerpow)
+- [3D Led Switch](https://dribbble.com/shots/5392104-3D-Led-Switch) by [Voicu Apostol](https://dribbble.com/cerpow)
+- [Neumorphism Button Animation](https://dribbble.com/shots/10140479-Neumorphism-button-animation) by [Moli_xEs](https://dribbble.com/Moli_xEs)
+- [E-Commerce Website Neumorphism](https://dribbble.com/shots/11065349-E-commerce) by [Cezara Felicia](https://dribbble.com/CezaraFelicia)
+- [Creative Bot - Onboarding Dashboard Neumorphism](https://dribbble.com/shots/10209058-Creative-Bot-Onboarding-Dashboard) by [Valentin Salmon](https://dribbble.com/ValentinSalmon)
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
