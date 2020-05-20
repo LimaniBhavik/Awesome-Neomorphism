@@ -28,20 +28,29 @@
 - The main difference between Neumorphism and Skeumorphism is that Skeumorphism only focused on using shadows or gradients. However, Neumorphism focuses on using shadows to create design components which are raised from root layer or vice versa. This gives designs a transition from life-less representations to something more real and close to the world in which we live. And that's the motivation for this library.
 
 
-## Mobile App Neumorphic Design 
+## Neumorphic - Design Inspiration | iOS | Android | Flutter | React Native | Xamarin | Web
 
 ### iOS | Swift | SwiftUI
 #### Contents for iOS Neumorphic
 
 #### Articles
-- [A swift guide to better typography for iOS
-](https://uxdesign.cc/a-five-minute-guide-to-better-typography-for-ios-4e3c2715ceb4) by [Pranav Ambwani](https://uxdesign.cc/@pranavambwani)
+- [A swift guide to better typography for iOS](https://uxdesign.cc/a-five-minute-guide-to-better-typography-for-ios-4e3c2715ceb4) by [Pranav Ambwani](https://uxdesign.cc/@pranavambwani)
+- [How to build neumorphic designs with SwiftUI](https://www.hackingwithswift.com/articles/213/how-to-build-neumorphic-designs-with-swiftui) by [Paul Hudson](https://twitter.com/twostraws)
+- [SwiftUI Neumorphism ButtonStyle](https://sarunw.com/posts/swiftui-buttonstyle/) by [Sarun](https://twitter.com/sarunw)
+
 #### Videos
 #### Template
 #### Example
+- [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
+- [SwiftUI utility to build Neumorphism Soft UI](https://github.com/costachung/neumorphic) by [Costa Chung](https://twitter.com/costachung)
+
 #### Plugins
+- [NeumorphismTab](https://cocoapods.org/pods/NeumorphismTab) by [Fujii Yosuke](https://github.com/touyou)
+- 
 #### Frameworks
 #### Games
+#### Apps 
+- [Neumorphism - Try Turn Off All Panels](https://apps.apple.com/us/app/neumorphism/id1497264656#?platform=iphone) by [Ninicode]
 #### Open Source Apps
 #### Web
 #### Books
@@ -85,8 +94,26 @@
 #### Books
 #### Community
 
+### React Native
+#### Contents for React Native Neumorphic
 
-### Web
+#### Articles
+#### Videos
+#### Template
+#### Example
+- [React Native components based on the concept of Neumorphism](https://github.com/usamamoinakhter/Neumorphism-ui) by [Usama Moin](https://github.com/usamamoinakhter)
+- 
+#### Plugins
+#### Frameworks
+#### Games
+#### Open Source Apps
+#### Web
+#### Books
+#### Community
+
+
+
+## Web
 #### Contents for Web Neumorphic
 
 #### Articles
@@ -110,12 +137,20 @@
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
 #### Community
 
-### Design
+## Design
 #### Contents for Design Neumorphic
 
 #### Designs
 - [Neumorphism - Inspirational Designs, illustrations, and graphic elements from the world’s best designers](https://dribbble.com/tags/neumorphism) on [Dribbble](https://dribbble.com)
 - [Designers & Developers who get the best UI Design Inspiration](https://uimovement.com/tag/neumorphism/) by [UIMovement](https://uimovement.com)
+- [Neumorphism Event Reminder/Skeuomorphism](https://dribbble.com/shots/9704162-Neumorphism-Event-Reminder-Skeuomorphism) by [Sandra Sunny](https://dribbble.com/Sunny_sandra)
+- [Neumorphism Watch E-Commerce App UI/Skeuomorphism](https://dribbble.com/shots/10037796-Neumorphism-Watch-ecommerce-App-ui-Skeuomorphism) by [Sandra Sunny](https://dribbble.com/Sunny_sandra)
+- [Collaboration Tool | Neomorphism](https://dribbble.com/shots/10411202-Collaboration-Tool-Neomorphism) by [Zaib Ali](https://dribbble.com/ZaibSAli)
+- [Boro UI for Apple Watch Apps](https://www.behance.net/gallery/92567473/Boro-Ui-for-apple-watch-apps) by [Boro | Egor Gajduk](https://www.behance.net/boro_uiux)
+- [Meditation App](https://dribbble.com/shots/10872882-Meditation-app) by [Olha](https://dribbble.com/olhadreamer)
+- [Tesla Smart App](https://dribbble.com/shots/10196092-Tesla-Smart-App) by [Gavrisov Dmitri](https://dribbble.com/GavrisovDmitri)
+- [Player App UI](https://dribbble.com/shots/9660694-Player-app-UI-Night-version) by [Anton Skvortsov](https://dribbble.com/AntonSKV)
+-
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
@@ -123,12 +158,15 @@
 - [Neumorphism the right way — A 2020 Design Trend](https://medium.com/@artofofiare/neumorphism-the-right-way-a-2020-design-trend-386e6a09040a) by [David Ofiare](https://twitter.com/artofofiare)
 - [Neumorphism. The Next Big Thing In UI Design?](https://medium.com/@openGeeksLab/neumorphism-the-next-big-thing-in-ui-design-11e703df3ab0) by [openGeekslab](https://twitter.com/openGeekslab)
 - [Neumorphism: why it’s all the hype in UI design](https://www.justinmind.com/blog/neumorphism-ui/) by Rebeca Costa
-- 
+- [Stripe Landing Page | Neomorphism](https://dribbble.com/shots/9807680-Stripe-Landing-Page-Neomorphism) by [Alexander Plyuto](https://dribbble.com/alexplyuto)
+
 #### Videos
 - [Could this be the BIGGEST UI Design Trend of 2020? #Neumorphism](https://www.youtube.com/watch?v=KlSLdEB3lzg) by [Gary Simon](https://twitter.com/designcoursecom)
 #### Template
+- [Neumorphism UI Elements for Sketch](https://www.uistore.design/items/neumorphic-ui-elements-for-sketch/) by [MazePixel](https://www.mazepixel.com/)
 #### Example
 #### Plugins
+
 #### Frameworks
 #### Games
 #### Open Source Apps
