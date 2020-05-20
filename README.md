@@ -44,7 +44,7 @@
 - [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
 - [SwiftUI utility to build Neumorphism Soft UI](https://github.com/costachung/neumorphic) by [Costa Chung](https://twitter.com/costachung)
 - [UIKit views with Neumorphism](https://github.com/hirokimu/EMTNeumorphicView) by [Hironobu Kimura](https://github.com/hirokimu)
-- 
+- [Soft UI effect in Swift](https://github.com/mumty13/MHSoftUI) <img src="https://github.com/mumty13/MHSoftUI/raw/master/SoftUIGIF.gif" width="300">
 #### Plugins
 - [NeumorphismTab](https://cocoapods.org/pods/NeumorphismTab) by [Fujii Yosuke](https://github.com/touyou)
 - 
@@ -84,10 +84,12 @@
 #### Example
 - [Neumorphic ui kit for Flutter, 🕶️ dark mode compatible](https://github.com/Idean/Flutter-Neumorphic) by [Idean](https://www.idean.com/)
 - [A Flutter package implement neumorphism design container with implicit animation](https://github.com/Kurogoma4D/animated_neumorphic) by [Kurogoma4D](https://github.com/Kurogoma4D)
-#### [Clay Containers](https://github.com/mcaubrey/clay_containers) by [Michael Aubrey](https://github.com/mcaubrey)
+
 #### Package (Pub)
 - A complete, ready to use, Neumorphic ui kit for Flutter. Dark theming compatible & fully customizable (https://pub.dev/packages/flutter_neumorphic) by [Idean](https://www.idean.com/)
-- [neumorphic 0.3.0](https://github.com/neumorphic/neumorphic.flutter) by [Serge Software](https://serge.software/)
+- [Neumorphic 0.3.0](https://github.com/neumorphic/neumorphic.flutter) by [Serge Software](https://serge.software/)
+<img src="https://raw.githubusercontent.com/neumorphic/neumorphic.flutter/master/example/media/v0/all.gif" width="300">
+- [Clay Containers](https://github.com/mcaubrey/clay_containers) by [Michael Aubrey](https://github.com/mcaubrey)
 #### Frameworks
 #### Games
 #### Open Source Apps
@@ -105,6 +107,7 @@
 #### Example
 - [React Native components based on the concept of Neumorphism](https://github.com/usamamoinakhter/Neumorphism-ui) by [Usama Moin](https://github.com/usamamoinakhter)
 - [Neo Skeuomorphism Style Simple UI](https://github.com/craftzdog/react-native-skeuomorphism-ui-example) by [Takuya Matsuyama](https://github.com/craftzdog)
+- [React Native Neomorph Shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) by [Daniel](https://github.com/tokkozhin)
 - 
 #### Plugins
 #### Frameworks
@@ -124,8 +127,14 @@
 - [Writing CSS for Neomorphism Design as easy as Possible](https://www.youtube.com/watch?v=Gv0dy51SYL0) by [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
 - [Neomorphism Login Page Black Dark Color- HTML & CSS ](https://www.youtube.com/watch?v=CNh2ESuCURg) by [HTML and CSS Tips And Tricks](https://www.youtube.com/channel/UC7hOMzEOcGaUTdFtiTvt0bQ/)
 - [Neomorphic Login Light Color Form Design with HTML, CSS and Javascript](https://www.youtube.com/watch?v=yZhbKkxFcN0) by [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
+- [Neomorphism Elementor Pro Tutorial](https://www.templatemonster.com/blog/neomorphism-elementor-pro-tutorial/) by [Natalia](https://www.instagram.com/by_natalia12/)
+- 
+
 #### Template
 - [Neumorphism.io](https://neumorphism.io/) - Generate Soft-UI CSS code 
+- [QuickCart – One Page eCommerce Template | Neomorphic](https://bootstrap4.com/quickcart-one-page-ecommerce-template/) by [https://themeforest.net/user/dmitryvolkov](DmitryVolkov)
+- 
+
 #### Example
 - [Google Play Store Apps - Analysis Neumorphism](https://public.tableau.com/views/GooglePlayStoreApps-AnalysisNeumorphism/Dashboard?:display_count=y&:origin=viz_share_link) by [Pradeep Kumar](https://twitter.com/pradeep_zen)
 - [CSS LOGIC GATES - Neumorphic](https://codepen.io/MananTank/pen/mdeJVVL) by [Manan Tank](https://twitter.com/Manan__Tank)
@@ -134,9 +143,10 @@
 - [Tutorial: Neomorphism with CSS](https://dev.to/alexgomez88/tutorial-neomorphism-with-css-2al2) by [Alejandro Augusto Gomez Rodriguez](https://github.com/alexgomez88)
 - [Sharing Buttons Neomorphism (HTML & CSS)](https://github.com/Godsont/Neomorphism) by [Godson Thomas](https://github.com/Godsont)
 -
-#### Plugins
-#### Frameworks
+#### Frameworks | Plugins | Library 
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
+- [Neumorphic style built with Bootstrap CSS Framework](https://github.com/themesberg/neumorphism-ui-bootstrap) by [ThemesBerg](https://github.com/themesberg) <img src="https://camo.githubusercontent.com/7879c20a6b9323045aec56383bcc64ee7a089ec7/68747470733a2f2f7468656d6573626572672e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f7075626c69632f70726f64756374732f6e65756d6f72706869736d2d75692f6e65756d6f72706869736d2d75692d707265766965772e676966" width="300">
+
 #### Games
 #### Open Source Apps
 #### Web
@@ -187,6 +197,7 @@
 #### Template | UI Kit | Component | Resources
 - [Neumorphism UI Elements for Sketch](https://www.uistore.design/items/neumorphic-ui-elements-for-sketch/) by [MazePixel](https://www.mazepixel.com/)
 - [Neumorphism | FREE UI KIT](https://www.behance.net/gallery/93357363/Neumorphism-FREE-UI-KIT) by [Daniel Mitev](https://www.behance.net/danielmitevbg)
+- [Free Neomorphic UI Kit for Adobe XD](https://www.behance.net/gallery/93347841/Free-Neomorphic-UI-Kit-for-Adobe-Xd) by [Zvonimir Juranko](https://www.behance.net/zvonimirjuranko1)
 
 #### Example
 #### Plugins
