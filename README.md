@@ -100,6 +100,7 @@
 #### Frameworks
 #### Games
 #### Open Source Apps
+- [Trak - A Cryptocurrency price tracker app build with Flutter and Dart](https://github.com/datttran/trak_app) <img src="https://github.com/datttran/trak_app/raw/master/images/image.png" width="300">
 #### Web
 #### Books
 #### Community
@@ -115,7 +116,7 @@
 - [Neo Skeuomorphism Style Simple UI](https://github.com/craftzdog/react-native-skeuomorphism-ui-example) by [Takuya Matsuyama](https://github.com/craftzdog)
 - [React Native Neomorph Shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) by [Daniel](https://github.com/tokkozhin) <img src="https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/shadows.gif" height="400">
 - [React Native components based on the concept of Neumorphism](https://github.com/usamamoinakhter/Neumorphism-ui) <img src="https://camo.githubusercontent.com/648d39d5de96dd434f289c730568c2d7e316682c/68747470733a2f2f692e706f7374696d672e63632f776a5233787351782f4e65756d6f72706869736d2d75692e676966" height="400">
-- 
+- [Neumorphism in React Native - Music Player](https://github.com/graphtobinary/NeumorphismPlayerDesign) <img src="https://user-images.githubusercontent.com/3539228/79463227-2cf34e00-8016-11ea-90d6-ff2c7fa2f22d.png" height="400">
 #### Plugins
 #### Frameworks
 #### Games
@@ -149,7 +150,9 @@
 - [How To Create A Nuemorphism Search Bar Design HTML CSS](https://www.youtube.com/watch?v=OUV359LbXIc) by [Bright K. Isaac](https://twitter.com/BrightCode1)
 - [Tutorial: Neomorphism with CSS](https://dev.to/alexgomez88/tutorial-neomorphism-with-css-2al2) by [Alejandro Augusto Gomez Rodriguez](https://github.com/alexgomez88)
 - [Sharing Buttons Neomorphism (HTML & CSS)](https://github.com/Godsont/Neomorphism) by [Godson Thomas](https://github.com/Godsont)
--
+- [A Framework which you can use for creating Containers with a Neumorphism look for React](https://github.com/dhuber666/React-Neumorphism) <img src="https://github.com/dhuber666/React-Neumorphism/raw/master/screenshots/screen1.png" width="300">
+- [Neumorphism designed Jekyll theme for personal websites, portfolios and resumes](https://github.com/longpdo/neumorphism) <img src="https://raw.githubusercontent.com/longpdo/neumorphism/master/docs/screenshot.gif" width="300">
+
 #### Frameworks | Plugins | Library 
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
 - [Neumorphic style built with Bootstrap CSS Framework](https://github.com/themesberg/neumorphism-ui-bootstrap) by [ThemesBerg](https://github.com/themesberg) <img src="https://camo.githubusercontent.com/7879c20a6b9323045aec56383bcc64ee7a089ec7/68747470733a2f2f7468656d6573626572672e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f7075626c69632f70726f64756374732f6e65756d6f72706869736d2d75692f6e65756d6f72706869736d2d75692d707265766965772e676966" width="300">
