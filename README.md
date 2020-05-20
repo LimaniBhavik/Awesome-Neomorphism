@@ -150,7 +150,7 @@
 - [Meditation App](https://dribbble.com/shots/10872882-Meditation-app) by [Olha](https://dribbble.com/olhadreamer)
 - [Tesla Smart App](https://dribbble.com/shots/10196092-Tesla-Smart-App) by [Gavrisov Dmitri](https://dribbble.com/GavrisovDmitri)
 - [Player App UI](https://dribbble.com/shots/9660694-Player-app-UI-Night-version) by [Anton Skvortsov](https://dribbble.com/AntonSKV)
--
+- [Growing 🌿 App](https://dribbble.com/shots/11207721-Growing-App) by [Sèrgi Mi](https://dribbble.com/SergiMi)
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
