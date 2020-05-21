@@ -131,8 +131,10 @@
 - [Neumorphism in React Native - Music Player](https://github.com/graphtobinary/NeumorphismPlayerDesign) <img src="https://user-images.githubusercontent.com/3539228/79463227-2cf34e00-8016-11ea-90d6-ff2c7fa2f22d.png" height="400">
 - [React Hooks/Neumorphism UI style - Equation Iteration Solution](https://github.com/Crawler995/Equation-Iteration-Solution) <img src="https://camo.githubusercontent.com/29a35a25362a97f30d44d9de415e0bc5074f6203/68747470733a2f2f692e706f7374696d672e63632f6657384e38734e302f636c69656e742d707265766965772e706e67" width="300">
 - [Redux Neumorphic Tap Room](https://github.com/kwicz/redux-neumorphic-tap-room) <img src="https://github.com/kwicz/redux-neumorphic-tap-room/raw/master/public/LandingPage.png" width="300">
-- 
-#### Plugins
+
+#### Plugins | Library | Package
+- [Neumorphism UI library for React Native](https://github.com/Jamyth/react-native-neu-element) <img src="https://camo.githubusercontent.com/3709bd611641bcdc84aa32f943fdac38e1484f3f/68747470733a2f2f692e696d6775722e636f6d2f6e6951763666646c2e6a7067" width="300">
+
 #### Frameworks
 #### Games
 #### Open Source Apps
@@ -146,6 +148,8 @@
 #### Contents for Web Neumorphic
 
 #### Articles
+- [Tiny Neumorphism UI Framework – Skeuos CSS](https://www.cssscript.com/neumorphism-ui-skeuos/) <img src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2020/03/Skeuos-CSS-Form-Fields.png?fit=620%2C517&ssl=1" width="300">
+
 #### Videos
 - [Writing CSS for Neomorphism Design as easy as Possible](https://www.youtube.com/watch?v=Gv0dy51SYL0) by [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
 - [Neomorphism Login Page Black Dark Color- HTML & CSS ](https://www.youtube.com/watch?v=CNh2ESuCURg) by [HTML and CSS Tips And Tricks](https://www.youtube.com/channel/UC7hOMzEOcGaUTdFtiTvt0bQ/)
@@ -182,11 +186,15 @@
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
 - [Neumorphic style built with Bootstrap CSS Framework](https://github.com/themesberg/neumorphism-ui-bootstrap) by [ThemesBerg](https://github.com/themesberg) <img src="https://camo.githubusercontent.com/7879c20a6b9323045aec56383bcc64ee7a089ec7/68747470733a2f2f7468656d6573626572672e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f7075626c69632f70726f64756374732f6e65756d6f72706869736d2d75692f6e65756d6f72706869736d2d75692d707265766965772e676966" width="300">
 - [Calculator made using HTML, CSS and JavaScript with Neumorphism/Soft UI style](https://github.com/theHocineSaad/Neumorphism-JavaScript-Calculator-with-Dark-Mode) <img src="https://camo.githubusercontent.com/042d2cac3aa8e3f46eb26e1f7e4c9fdc7a51a63a/68747470733a2f2f692e696d6775722e636f6d2f6f7a675a4968712e706e67" width="300">
+- [Nano library with integrated bootstrap to make easy Neumorphysm Designs](https://github.com/ChemaAlfonso/neumorph.scss) <img src="https://i1.wp.com/365webresources.com/wp-content/uploads/2020/03/Dark-Neomorphic-UI-Kit.jpg?ssl=1" width="300">
+
 
 #### Games
 #### Open Source Apps
 #### Web
 - [Neumorphism is a play on words based on New + Skeuomorphism.](https://neumorphism.com/) by Neumorphism.
+- [Neomorphism Icons](https://codepen.io/Partical/full/PoqBYdx) <img src="https://codepen.io/Partical/pen/PoqBYdx/image/large.png" width="300">
+
 #### Books
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
 #### Community
@@ -268,6 +276,10 @@
 - ["Nuemorphism" Calculator UI](https://dribbble.com/shots/9157457--Nuemorphism-Calculator-UI) <img src="https://cdn.dribbble.com/users/4164945/screenshots/9157457/media/8e99c65ed0a7df9fa093868fe7268386.png" width="300">
 - [Smart Home Nuemorphism](https://dribbble.com/shots/10377619-Smart-home) <img src="https://cdn.dribbble.com/users/4040486/screenshots/10377619/media/147352ab91ae1a55099bf8f8590db1e4.png" width="300">
 - [Music Player Nuemorphism](https://dribbble.com/shots/10068549-Music-Player) <img src="https://cdn.dribbble.com/users/4040486/screenshots/10068549/media/cb812dde394ada4609a16a5ba039820f.png" width="300">
+- [Ordering food through Voice Nuemorphism](https://dribbble.com/shots/11500465-Ordering-food-through-voice) <img src="https://cdn.dribbble.com/users/3440202/screenshots/11500465/media/83b55eee77411e6ea39b50dc210bc6df.png" width="300">
+- [Lux Bank Dashboard Nuemorphism](https://dribbble.com/shots/11475495-UI-of-the-Week-Lux-Bank-Dashboard) <img src="https://cdn.dribbble.com/users/5299734/screenshots/11475495/media/e9503c348b1c01efa83c37823f6f5460.png" width="300">
+- [Neumorphism icons](https://dribbble.com/shots/11473239-Neumorphism-icons) <img src="https://cdn.dribbble.com/users/1426677/screenshots/11473239/______0.5x.png" width="300">
+- 
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
