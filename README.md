@@ -233,7 +233,41 @@
 - [Book Subscription App 📖](https://dribbble.com/shots/9532828-Book-Subscription-App) <img src="https://cdn.dribbble.com/users/970912/screenshots/9532828/media/f6e5b4010a95ad9c05bd3532c266a91c.png" width="300"> 
 - [Nike Shoes E-Commerce - Neumorphism](https://dribbble.com/shots/9390903-Nike-Shoes-E-Commerce-Neumorphism) <img src="https://dribbble.com/shots/9390903-Nike-Shoes-E-Commerce-Neumorphism" width="300">
 - [Neomorphism Dashboard app Concept](https://dribbble.com/shots/9851963-Neomorphism-app-concept) <img src="https://cdn.dribbble.com/users/1765230/screenshots/9851963/media/b59534277d3c9ecc63a343c17b5d37ef.jpg" width="300">
-- 
+- [Your Flow: Yoga App Neomorphism](https://dribbble.com/shots/10952565-Your-Flow-Yoga-App) <img src="https://cdn.dribbble.com/users/230268/screenshots/10952565/media/833bc229a124bc5a08b5c280fa7ddfb5.png" width="300">
+- [Neumorphic Dark UI Kit Components - Neomorphism](https://dribbble.com/shots/10575072-Neumorphic-dark-ui-kit-components) <img src="https://cdn.dribbble.com/users/230268/screenshots/10575072/media/81fe09433e1bca5edc7cfa9433a64e2b.png" width="300">
+- [Dark Neumorphic Website Design](https://dribbble.com/shots/10680699-Dark-Neumorphic-Website-Design) <img src="https://cdn.dribbble.com/users/230268/screenshots/10680699/media/16563f664e6a9f11229191768ca9ea27.png" width="300">
+- [Neumorphism UI Trend](https://dribbble.com/shots/9890709-Neumorphism-UI-Trend-2020) <img src="https://cdn.dribbble.com/users/2446071/screenshots/9890709/media/6c9cb8deabc71b3bb158f6ab7ca653ff.png" width="300">
+- [Phone Card Guide Page - Neumorphism](https://dribbble.com/shots/10680036-Phone-card-guide-page) <img src="https://cdn.dribbble.com/users/1695776/screenshots/10680036/media/5b2e8cae74fd03db7e00a93f06c63c3c.png" width="300">
+- [Neumorph Clock](https://dribbble.com/shots/10596186-Neumorph-Clock) <img src="https://cdn.dribbble.com/users/2818589/screenshots/10596186/media/9ecf9ad4389b4797936e6298f197b414.png" width="300">
+- [Kettle App Dark Neumorphic](https://dribbble.com/shots/10086786-Kettle-App-Dark-Neumorphic) <src src="https://cdn.dribbble.com/users/2818589/screenshots/10086786/media/7ccf187f945480bed17b9c5b93a387fb.mp4" width="300">
+- [Fitness Tracking App - Neumorphic](https://dribbble.com/shots/10084018-Fitness-tracking-App) <img src="https://cdn.dribbble.com/users/4537425/screenshots/10084018/media/1400e56d6abf5dd243948c0f29ee99ce.jpg" width="300">
+- [Reset Pin - Neumorphism](https://dribbble.com/shots/10491595-Neumorphism-new-trend) <img src="https://cdn.dribbble.com/users/65995/screenshots/10491595/media/73e8fc997ace523ffc43a07537176e05.png" width="300">
+- [Reset Pin 2 - Neumorphism](https://dribbble.com/shots/10491971-Neumorghism-2) <img src="https://cdn.dribbble.com/users/65995/screenshots/10491971/media/6ae7c494f5cdd63e407288152b98d7e7.png" width="300">
+- [Smart Boiler App - Neumorphic Design](https://dribbble.com/shots/11197067-Smart-Boiler-App) <img src="https://cdn.dribbble.com/users/1798374/screenshots/11197067/media/3dff19dfaf10916765e89a7c566d9e1b.png" width="300">
+- [Essential Neumprphic Icons](https://dribbble.com/shots/10687587-Essential-Neumprphic-Icons) <img src="https://cdn.dribbble.com/users/1798374/screenshots/10687587/media/cb5b71913ec17a48f9c3355437e2b68b.png" width="300">
+- [Neumorphism E-Commerce App Concept](https://dribbble.com/shots/10929197-Neumorphism-E-Commerce-App-Concept) <img src="https://cdn.dribbble.com/users/2456962/screenshots/10929197/media/2e09027cf618a3c63f35addd42d59d34.jpg" width="300">
+- [Music App - Neumorphism Redesign](https://dribbble.com/shots/9834737-Music-App-Neumorphism-Redesign) <img src="https://cdn.dribbble.com/users/4792063/screenshots/9834737/media/c8e5f63e8df31305355fbf4f5e754690.png" width="300">
+- [Neumorphism Music App♫](https://dribbble.com/shots/11315234-Neumorphism-Music) <img src="https://cdn.dribbble.com/users/477071/screenshots/11315234/media/c2a91d8aa23290cec9002fbe38eb62bd.jpg" width="300">
+- [Task Management - Neumprphic](https://dribbble.com/shots/11367931-Task-Management) <img src="https://cdn.dribbble.com/users/477071/screenshots/11367931/media/8159290770f899251ca9f72682376ba6.jpg" width="300">
+- [Neumorphic Dark🌘 Component](https://dribbble.com/shots/11076737-Neumorphic-Dark) <img src="https://cdn.dribbble.com/users/477071/screenshots/11076737/media/6f81b90ee3116c595a8ca7a2155adb6d.jpg" width="300">
+- [Controller Userinterface - Neumorphic](https://dribbble.com/shots/10745286-Controller-Userinterface) <img src="https://cdn.dribbble.com/users/477071/screenshots/10745286/media/4f9454461063d6d5bc7589d5874626e0.jpg" width="300">
+- [Mobile app Controller Neumorphic](https://dribbble.com/shots/10480819-mobile-app-controller) <img src="https://cdn.dribbble.com/users/477071/screenshots/10480819/media/dce23b4c29fef56917f9657f6768dbee.jpg" width="300">
+- [Daily Task Update Neumorphic](https://dribbble.com/shots/11375281-Daily-Task-Update) <img src="https://cdn.dribbble.com/users/477071/screenshots/11375281/media/e4dade1693af8f05c1f09c13a8e08ac6.jpg" width="300">
+- [Skeuomorphism UI](https://dribbble.com/shots/10208235-Skeuomorphism-UI) <img src="https://cdn.dribbble.com/users/477071/screenshots/10208235/media/82d39347c194b70c0aa53269d592b957.jpg" width="300">
+- [Dating App neumorphic UI Design](https://dribbble.com/shots/10680728-Dating-App-neumorphic-UI-Design) <img src="https://cdn.dribbble.com/users/442243/screenshots/10680728/media/d3c02606c2a402cbe081ed5ece591339.png" width="300">
+- [Enpara Mobile Banking App Login Screen, New Skeuomorph Style](https://dribbble.com/shots/9174071-Enpara-Mobile-Banking-App-Login-Screen-New-Skeuomorph-Style) <img src="https://cdn.dribbble.com/users/2215556/screenshots/9174071/media/bfdb37c524f2d1ba1fa672e419750b37.png" width="300">
+- [Sleep Cycle App - Neumorphism Redesign](https://dribbble.com/shots/9236283-Sleep-Cycle-App-Neumorphism-Redesign) <img src="https://cdn.dribbble.com/users/2282987/screenshots/9236283/media/d40a205efed126ac53e43a30b39eec14.png" width="300">
+- [Neumorphic Dashboard](https://dribbble.com/shots/10728974-Neumorphic-Dashboard) <img src="https://cdn.dribbble.com/users/2317647/screenshots/10728974/media/6e9dcd52cf96c9efe5ace8bf3f2c92c6.png" width="300">
+- [To-do App Light Neumorphic](https://dribbble.com/shots/9870560-To-do-App-Light) <img src="https://cdn.dribbble.com/users/2317647/screenshots/9870560/media/d0d18b159e7e0176527779af87e67d6f.png" width="300">
+- [Neumorphism Style - Purchase Guitar App](https://dribbble.com/shots/10212403-Neumorphism-Style-Purchase-Guitar-App) <img src="https://cdn.dribbble.com/users/4506058/screenshots/10212403/media/873ab9c5dd451a9b596dc2b78fa90e0c.png" width="300">
+- [Neumorphism Smart Home app](https://dribbble.com/shots/9916835-Neumorphism-Smart-Home-app) <img src="https://cdn.dribbble.com/users/2045817/screenshots/9916835/media/1eb62f7d6cf5b0089e9ad8c34dab9bcd.jpg" width="300">
+- [Neumorphism Fitness Mobile App](https://dribbble.com/shots/9527274-Neumorphism-Fitness-Mobile-App) <img src="https://cdn.dribbble.com/users/2202649/screenshots/9527274/media/57d6d98117bbbb1e151112ef78589309.png" width="300">
+- [Tracking Project Neumorphism based UI](https://dribbble.com/shots/11062253-UI-for-Tracking-Project) <img src="https://cdn.dribbble.com/users/1080836/screenshots/11062253/media/51cedbe8d349e26d91621233a99690fe.jpg" width="300">
+- [Savings Calculator Concept 💸 Neumorphism](https://dribbble.com/shots/11128318-Savings-Calculator-Concept) <img src="https://cdn.dribbble.com/users/1080836/screenshots/11128318/media/c3995cc1096480f3a18b17731065409b.png" width="300">
+- [Nuemorphism Music Player](https://dribbble.com/shots/9405413-Nuemorphism-Music-Player) <img src="https://cdn.dribbble.com/users/4164945/screenshots/9405413/media/d62f401d0f7b390e4beb49cde08f1b0a.png" width="300">
+- ["Nuemorphism" Calculator UI](https://dribbble.com/shots/9157457--Nuemorphism-Calculator-UI) <img src="https://cdn.dribbble.com/users/4164945/screenshots/9157457/media/8e99c65ed0a7df9fa093868fe7268386.png" width="300">
+- [Smart Home Nuemorphism](https://dribbble.com/shots/10377619-Smart-home) <img src="https://cdn.dribbble.com/users/4040486/screenshots/10377619/media/147352ab91ae1a55099bf8f8590db1e4.png" width="300">
+- [Music Player Nuemorphism](https://dribbble.com/shots/10068549-Music-Player) <img src="https://cdn.dribbble.com/users/4040486/screenshots/10068549/media/cb812dde394ada4609a16a5ba039820f.png" width="300">
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
@@ -242,6 +276,7 @@
 - [Neumorphism. The Next Big Thing In UI Design?](https://medium.com/@openGeeksLab/neumorphism-the-next-big-thing-in-ui-design-11e703df3ab0) by [openGeekslab](https://twitter.com/openGeekslab)
 - [Neumorphism: why it’s all the hype in UI design](https://www.justinmind.com/blog/neumorphism-ui/) by Rebeca Costa
 - [Stripe Landing Page | Neomorphism](https://dribbble.com/shots/9807680-Stripe-Landing-Page-Neomorphism) by [Alexander Plyuto](https://dribbble.com/alexplyuto)
+
 
 #### Videos
 - [Could this be the BIGGEST UI Design Trend of 2020? #Neumorphism](https://www.youtube.com/watch?v=KlSLdEB3lzg) by [Gary Simon](https://twitter.com/designcoursecom)
