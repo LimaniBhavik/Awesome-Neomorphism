@@ -29,10 +29,9 @@
 - The main difference between Neumorphism and Skeumorphism is that Skeumorphism only focused on using shadows or gradients. However, Neumorphism focuses on using shadows to create design components which are raised from root layer or vice versa. This gives designs a transition from life-less representations to something more real and close to the world in which we live. And that's the motivation for this library.
 
 
-## Neumorphic - Design Inspiration | iOS | Android | Flutter | React Native | Xamarin | Web
+## Neumorphic - iOS | Android | Flutter | React Native | Xamarin | Web | Design Inspiration 
 
-### iOS | Swift | SwiftUI
-#### Contents for iOS Neumorphic
+### Neumorphic trends in iOS | Swift | SwiftUI | WatchOS | tvOS | iPadOS
 
 #### Articles
 - [A swift guide to better typography for iOS](https://uxdesign.cc/a-five-minute-guide-to-better-typography-for-ios-4e3c2715ceb4) by [Pranav Ambwani](https://uxdesign.cc/@pranavambwani)
@@ -66,8 +65,7 @@
 #### Books
 #### Community
 
-### Android
-#### Contents for Android Neumorphic
+### Neumorphic trends Android | Android Tablet | WearOS | Android TV | Android Auto | Smart Devices
 
 #### Articles
 #### Videos
