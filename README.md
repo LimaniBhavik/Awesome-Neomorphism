@@ -1,4 +1,5 @@
-# Awesome Neomorphism
+# Awesome Neomorphism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 - An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
 
 ### What is Skeuomorphism?
@@ -46,7 +47,7 @@
 - [UIKit views with Neumorphism](https://github.com/hirokimu/EMTNeumorphicView) by [Hironobu Kimura](https://github.com/hirokimu)
 - [Soft UI effect in Swift](https://github.com/mumty13/MHSoftUI) <img src="https://github.com/mumty13/MHSoftUI/raw/master/SoftUIGIF.gif" width="300">
 - [SwiftUI utility to build Neumorphism Soft UI (supports both *outer shadow and *inner shadow)](https://github.com/costachung/neumorphic) <img src="https://user-images.githubusercontent.com/169746/77291563-7bfcda80-6d19-11ea-84ff-1ae527e425fa.png" width="300">
-- [Buttons styled to have a soft neumorphic look using SwiftUI](https://github.com/Abruuham/Neumorphic-Buttons) <img src="https://github.com/Abruuham/Neumorphic-Buttons/raw/master/darkMode.gif" width="300">
+- [Buttons styled to have a Soft Neumorphic look using SwiftUI](https://github.com/Abruuham/Neumorphic-Buttons) <img src="https://github.com/Abruuham/Neumorphic-Buttons/raw/master/darkMode.gif" width="300">
 - [NeoButton](https://github.com/igorkotkovets/NeoButton) <img src="https://github.com/igorkotkovets/NeoButton/raw/master/output.gif" height="400">
 - [Quickly Design a Neumorphic Button with SwiftUI](https://github.com/theroyakash/neumorphicbutton) <img src="https://camo.githubusercontent.com/78084d3f45083314c8f072743bacb57e0d41e3a3/68747470733a2f2f692e696d6775722e636f6d2f47643859734e6e2e706e673f31" width="300">
 - [Neumorphic Design](https://github.com/Davidslv/neumorphism-design) <img src="https://raw.githubusercontent.com/Davidslv/neumorphism-design/master/docs/images/screen.png" height="400">
