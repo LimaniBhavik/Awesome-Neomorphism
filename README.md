@@ -224,6 +224,16 @@
 - [Google Search Redesign - Neumorphism](https://dribbble.com/shots/10776994-Google-Search-Redesign) <img src="https://cdn.dribbble.com/users/2860592/screenshots/10776994/media/5e460818653b6dce4316b8f150fe0125.jpg" width="300">
 - [Dribbble App Redesign Concept - Skeuomorphism🏀](https://dribbble.com/shots/10585630-Dribbble-App-Redesign-Concept-Skeuomorphism)<img src="https://cdn.dribbble.com/users/2860592/screenshots/10585630/media/15853c5bae3f67b429bc1d5e8729610d.jpg" width="300">
 - [Apple Card redesign - Skeuomorphism](https://dribbble.com/shots/9830666-Apple-Card-redesign) <img src="https://cdn.dribbble.com/users/2860592/screenshots/9830666/media/f0492bf3dd1b3d606bc93b2a667a58ed.jpg" width="300">
+- [Neumorphism Smart Home Dashboard](https://dribbble.com/shots/9592062-Neumorphism-Smart-Home) <img src="https://dribbble.com/shots/9592062-Neumorphism-Smart-Home" width="300">
+- [Alarm clock concept with Neumorphic UI](https://dribbble.com/shots/10453935-Alarm-clock-concept-with-neumorphic-UI) <img src="https://cdn.dribbble.com/users/4195915/screenshots/10453935/media/0d0d9975ecd8ec7bd1e6b994a762fcbe.jpg" width="300">
+- [Time with some clouds with Neumorphic UI](https://dribbble.com/shots/9661015-Time-with-some-clouds) <img src="https://cdn.dribbble.com/users/4465631/screenshots/9661015/media/4cf8aab80e51828937976d2e79ce28e6.jpg" width="300">
+- [Adidas Product Page - Neumorphism Concept Design](https://dribbble.com/shots/9802163-Adidas-Product-Page-Neumorphism-Concept-Design) <img src="https://cdn.dribbble.com/users/2603582/screenshots/9802163/media/83a7eb4604fbba8945aa064869004831.png" width="300">
+- [Playstation 5 DualSense - Neumorphic mobile app concept](https://dribbble.com/shots/11131534-Playstation-5-DualSense-Neumorphic-mobile-app-concept) <img src="https://cdn.dribbble.com/users/333886/screenshots/11131534/media/fd04bdf8eeb4dcce18861f87390f5c88.png" width="300">
+- [Neumorph / Skeuomorph Anicorn Watches - Light Mode](https://dribbble.com/shots/9706742-Neumorph-Skeuomorph-Anicorn-Watches-Light-Mode) <img src="https://cdn.dribbble.com/users/333886/screenshots/9706742/media/583f49fe55b43513babb4e75d685d250.png" width="300">
+- [Book Subscription App 📖](https://dribbble.com/shots/9532828-Book-Subscription-App) <img src="https://cdn.dribbble.com/users/970912/screenshots/9532828/media/f6e5b4010a95ad9c05bd3532c266a91c.png" width="300"> 
+- [Nike Shoes E-Commerce - Neumorphism](https://dribbble.com/shots/9390903-Nike-Shoes-E-Commerce-Neumorphism) <img src="https://dribbble.com/shots/9390903-Nike-Shoes-E-Commerce-Neumorphism" width="300">
+- [Neomorphism Dashboard app Concept](https://dribbble.com/shots/9851963-Neomorphism-app-concept) <img src="https://cdn.dribbble.com/users/1765230/screenshots/9851963/media/b59534277d3c9ecc63a343c17b5d37ef.jpg" width="300">
+- 
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
