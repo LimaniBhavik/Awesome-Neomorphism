@@ -18,7 +18,11 @@
 
 
 ## List of Articles | Books for the Skeuomorphism
-- [Digital skeuomorphism](http://thatkeith.com/articles/digital-skeuomorphism/) - Articles
+- [Digital skeuomorphism](http://thatkeith.com/articles/digital-skeuomorphism/) - Article
+- [I know you like skeuomorphism, but you’re wrong!](https://blog.prototypr.io/i-know-you-like-skeuomorphism-but-youre-wrong-eab6c0515211) - Article (Oct 1, 2019)
+- [Skeuomorphism is dead, long live skeuomorphism](https://www.interaction-design.org/literature/article/skeuomorphism-is-dead-long-live-skeuomorphism) - Article (2018)
+- [A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective](https://www.mdpi.com/2414-4088/2/2/31) - Comparative Study Published on 4 June 2018
+- [Skeuomorphism 101: An Intro to the Controversial Style - HubSpot](https://blog.hubspot.com/website/skeuomorphism) - published Apr 24, 2020
 
 ## List of Video for the Skeuomorphism
 - [Skeuomorphism: Dan O'Hara at TEDxManchester](https://www.youtube.com/watch?v=kpFKsC4mi5I)
