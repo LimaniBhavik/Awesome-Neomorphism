@@ -1,5 +1,10 @@
 # Awesome Neomorphism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Neomorphic
+Neomorphism
+Skeuomorphism
+Skeuomorphic
+
 - An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
 
 ### What is Skeuomorphism?
@@ -41,6 +46,7 @@
 - [A swift guide to better typography for iOS](https://uxdesign.cc/a-five-minute-guide-to-better-typography-for-ios-4e3c2715ceb4) by [Pranav Ambwani](https://uxdesign.cc/@pranavambwani)
 - [How to build neumorphic designs with SwiftUI](https://www.hackingwithswift.com/articles/213/how-to-build-neumorphic-designs-with-swiftui) by [Paul Hudson](https://twitter.com/twostraws)
 - [SwiftUI Neumorphism ButtonStyle](https://sarunw.com/posts/swiftui-buttonstyle/) by [Sarun](https://twitter.com/sarunw)
+- [Neomorphism using SwiftUI](https://prog.world/neomorphism-using-swiftui-part-1/) <img src="https://i2.wp.com/habrastorage.org/webt/1r/f1/ha/1rf1hanjn-9zhj0xhglha6e4lr0.jpeg?w=1160&ssl=1" width="300">
 
 #### Videos
 #### Template
@@ -184,6 +190,22 @@
 - [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM) <img src="https://codepen.io/myacode/pen/PoqQQNM/image/large.png" width="300">
 - [Neomorph UI Kit](https://codepen.io/miocene/pen/oNNOmza) <img src="https://screenshot.codepen.io/1329536.oNNOmza.5fafd3ab-5426-4384-aeb8-3da43df85535.png" width="300">
 - [A Bit of Neumorphism](https://codepen.io/drovosek2703/pen/VwYRZrM) <img src="https://cdn.dribbble.com/users/2202649/screenshots/9527558/media/2caa8dfdadc4f3264149966b8132e51b.png" width="300">
+- [Editable Neumorphic Text](https://codepen.io/cobra_winfrey/pen/NWqxqpz) <img src="https://codepen.io/cobra_winfrey/pen/NWqxqpz/image/large.png" width="300">
+- [Neumorphic Playground](https://codepen.io/jh3y/pen/yLNeMao) <img src="https://i.pinimg.com/originals/86/5a/9b/865a9ba5547e77118b5f0b23739ee6e8.png" width="300">
+- [Neumorphism Toggle](https://codepen.io/aaroniker/pen/qBdZEjQ) <img src="https://codepen.io/aaroniker/pen/qBdZEjQ/image/large.png" width="300">
+- [Witchermorphism](https://codepen.io/pgalor/pen/zYxppMG) <img src="https://cdn.dribbble.com/users/1526265/screenshots/9331049/media/f70ccb36469c05af7d439bbc2e1587ec.gif" width="300">
+- [Soft UI Music Player - Neumorphism](https://codepen.io/candroo/pen/bGNjjPZ) <img src="https://screenshot.codepen.io/42451.bGNjjPZ.9827e5ff-53c2-4293-861e-2fb207b088bf.png" width="300">
+- [Fingerprint Scan - Neumorphism](https://codepen.io/cassie-codes/pen/mdyvEXb) <img src="https://codemyui.com/wp-content/uploads/2020/02/Neumorphic-Fingerprint-Scanner-UI-Animation.gif" width="300">
+- [Neumorphic Radio Button](https://codepen.io/halvves/pen/QWbWGGb) <img src="https://cdn.dribbble.com/users/920451/screenshots/9951128/media/26bef82e9e42d54396335c1f596644fd.gif" width="300">
+- [Web OP-1 Neumorphic](https://codepen.io/liva_raita/pen/zYxpLjJ) <img src="https://pseudospencer.github.io/responsive-web-development-projects/product-landing-page/img/op1_xlarge.jpg" width="300">
+- [Neumorphism Study](https://codepen.io/scottkellum/pen/KKwQNwE) <img src="https://codepen.io/tatsujb/pen/RwNJzXY/image/large.png" width="300">
+- [Neuomorphic Keyboard](https://codepen.io/braydoncoyer/pen/poJzLLO) <img src="https://s3-us-west-2.amazonaws.com/codepen-thumbnails/Pen/42714497/thumbnail.large.jpg?v=1584369486" width="300">
+- [Quite Realistic Buttons - Neuomorphic](https://codepen.io/minustalent/pen/GzuCa) <img src="https://ewebdesign.com/wp-content/uploads/2015/05/3-Quite-Realistic-Buttons-by-Steffen-Gramberg.jpg" width="300">
+- [Neumorphism Weather App](https://codepen.io/travisw/pen/JjoaadE) <img src="https://cdn.dribbble.com/users/1357823/screenshots/9799486/todo_app___1.png" width="300">
+- [Neumorphism and Toggles](https://codepen.io/ryanparag/pen/OJVJrxZ) <img src="https://bashooka.com/wp-content/uploads/2020/02/css-neumorphic-design-21.jpg" width="300">
+- [Neumorphic Tabs](https://codepen.io/mburridge/pen/rNVeaKv) <img src="https://i.pinimg.com/originals/3e/6b/40/3e6b40540f36f6ad1ec8d36cac2c1099.png" width="300">
+- [Neumorphism Button](https://codepen.io/sebastian-piskaty/pen/dyPWwLL) <img src="https://bashooka.com/wp-content/uploads/2020/02/css-neumorphic-design-25.jpg" width="300">
+- []() <img src="" width="">
 
 #### Frameworks | Plugins | Library 
 - [Neomorphism - UI components library in the new neomorphism design style](https://ismail9k.github.io/neomorphism/) by [Abdelrahman Ismail](https://github.com/ismail9k)
@@ -282,7 +304,8 @@
 - [Ordering food through Voice Nuemorphism](https://dribbble.com/shots/11500465-Ordering-food-through-voice) <img src="https://cdn.dribbble.com/users/3440202/screenshots/11500465/media/83b55eee77411e6ea39b50dc210bc6df.png" width="300">
 - [Lux Bank Dashboard Nuemorphism](https://dribbble.com/shots/11475495-UI-of-the-Week-Lux-Bank-Dashboard) <img src="https://cdn.dribbble.com/users/5299734/screenshots/11475495/media/e9503c348b1c01efa83c37823f6f5460.png" width="300">
 - [Neumorphism icons](https://dribbble.com/shots/11473239-Neumorphism-icons) <img src="https://cdn.dribbble.com/users/1426677/screenshots/11473239/______0.5x.png" width="300">
-- 
+- [Neomorphic Login System Dark UI Design](https://www.uplabs.com/posts/neomorphic-login-system-dark-ui-design) <img src="https://assets.materialup.com/uploads/db54858d-12ea-4410-84d9-ebb58ba6ae20/preview.jpg" width="300">
+- [Apple Ipod in adobe XD (source file include free)](https://dribbble.com/shots/10155791-Apple-Ipod-in-adobe-XD-source-file-include-free) <img src="https://cdn.dribbble.com/users/507456/screenshots/10155791/media/942c22bd588f6182b37a340503435c5e.png" width="300">
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
@@ -306,7 +329,15 @@
 - [Neumorphism UI Kit - Sketch, Photoshop, Figma](https://elements.envato.com/neumorphism-ui-kit-DWKEMP8) <img src="https://elements-cover-images-0.imgix.net/491b420e-6a33-47bf-a8ea-1109830d0193?auto=compress%2Cformat&fit=max&w=1170&s=4f7556c38347bcf8ee3de2564629b4f8" width="300">
 - [Neumorphic iOS Calculator - Sketch](https://elements.envato.com/neumorphic-ios-calculator-JPAWNX7) <img src="https://elements-cover-images-0.imgix.net/e662471c-7da3-407e-93e3-44e8e9a457d4?auto=compress%2Cformat&fit=max&w=1170&s=83f54f275a9b1a75b2001593f033106f" width="300">
 - [Neumorphic UI Kit - Skeuo/Neumorphic UI Kit including 26 Unique Elements Sketch](https://elements.envato.com/neumorphic-ui-kit-MGQ8CA3) <img src="https://elements-cover-images-0.imgix.net/a7f8286f-430e-4c0d-85e2-ae336c785f52?auto=compress%2Cformat&fit=max&w=1170&s=adc9b8d9b06101984bdb94a9444395a2" width="300">
-- 
+- [Keira - Mobile Fitness App UI Kit - Neumorphic](https://creativemarket.com/royalzdotstore/2550384-Keira-Mobile-Fitness-App-UI-Kit) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/4433065/580/438/m2/fpnw/wm0/1-.jpg?1585701437&s=1c614e99c8893bfc350103a88554aaec" width="300">
+- [Skeuomorph Ui Kit for eCommerce and Finance](https://creativemarket.com/Harpen/4424988-Skeuomorph-Ui-Kit) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7510512/600/400/m2/fpnw/wm0/e-commerce-01-copy-5-.jpg?1577377337&s=7dab9d6634d60b6b89c92c6c539283b4" width="300">
+- [Potentiometers Skeuomorph UI](https://creativemarket.com/ThibaultRouquet/7678-Dark-GUI-Potentiometer) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/24100/910/607/m1/fpnw/wm0/potentiometerbywoomedia-covercm-.png?1372097434&s=14efe9ebcb9293c6d7ac12517b6fe1f3" width="300">
+- [Dark Knob - Neumorphic UI](https://creativemarket.com/ThibaultRouquet/2527-Dark-Knob-66-OFF) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7383/910/607/m1/fpnw/wm0/knob-2-.png?1373052015&s=2f2648b17f7515d58fab9483c8eade80" width="300">
+- [Media Skeuomorph Icons](https://creativemarket.com/Rengised/4487506-Media-skeuomorph-icons) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7610383/600/400/m2/fpnw/wm0/frame-.png?1579356459&s=dc9ed05b1afc90f9c8c2b9f814ca1b1e" width="300">
+- [Standard Size Neumorphic UI Web](https://creativemarket.com/Batareykin/4579868-Standard-Size-Neumorphic-UI-Web) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/7760677/600/400/m2/fpnw/wm1/ka3yxyhmibvsr7mejmcmisf9pnvsh8bhokja2sjnxsacb5hsn6wcgn6iok7nqadg-.jpg?1581658558&s=473a95b7de405143172d6685616b355a" width="300">
+- [Newmorphic UI Button Dark set](https://creativemarket.com/Batareykin/4810319-Newmorphic-UI-button-dark-set) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8124168/600/400/m2/fpnw/wm1/traiz0ntnkk86sdnwchuhublcdxrywii3eoarrrz8psmzpaiisdh1frurthchigi-.jpg?1586760286&s=244a23f04b925b88cf893e5998034b9f" width="300">
+- [Neumorphic Mobile App UI Kit](https://creativemarket.com/alexdndz/4937323-Neumorphic-Mobile-App-UI-Kit) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8329527/580/386/m2/fpnw/wm1/4_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1-.jpg?1589355412&s=7feb873797bea4f1af84e0b824daa411" width="300">
+- [Neumorph UI Kit on Device Screen](https://creativemarket.com/Batareykin/4891015-Neumorph-UI-kit-on-device-screen) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8254736/600/400/m2/fpnw/wm1/dgucfvjyjwwffc5mof0la2ayed7lxqoqcu32qslyryo93nnhymwcqrcppaov2708-.jpg?1588576797&s=336d1046eab0b99eae949a8770a29bdc" width="300">
 
 
 #### Example
