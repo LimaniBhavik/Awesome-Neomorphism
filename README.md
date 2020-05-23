@@ -60,6 +60,7 @@ Skeuomorphic
 - [NeoButton](https://github.com/igorkotkovets/NeoButton) <img src="https://github.com/igorkotkovets/NeoButton/raw/master/output.gif" height="400">
 - [Quickly Design a Neumorphic Button with SwiftUI](https://github.com/theroyakash/neumorphicbutton) <img src="https://camo.githubusercontent.com/78084d3f45083314c8f072743bacb57e0d41e3a3/68747470733a2f2f692e696d6775722e636f6d2f47643859734e6e2e706e673f31" width="300">
 - [Neumorphic Design](https://github.com/Davidslv/neumorphism-design) <img src="https://raw.githubusercontent.com/Davidslv/neumorphism-design/master/docs/images/screen.png" height="400">
+- [Dynamic Neumorph SwiftUI Components rendered with SceneKit](https://github.com/Geri-Borbas/iOS.Prototype.Neumorphism) <img src="https://github.com/Geri-Borbas/iOS.Prototype.Neumorphism/raw/master/Documentation/Screenshot_2020-03-03_at_4.11.36.png" height="400">
 
 #### Plugins | Library
 - [NeumorphismTab](https://cocoapods.org/pods/NeumorphismTab) by [Fujii Yosuke](https://github.com/touyou)
@@ -102,6 +103,12 @@ Skeuomorphic
 - [Neumorphic designs with Flutter](https://medium.com/flutter-community/neumorphic-designs-in-flutter-eab9a4de2059) by [Ivan Cherepanov](https://medium.com/@av.codes)
 - 
 #### Videos
+- [Flutter - Neumorphism Payment App UI](https://www.youtube.com/watch?v=HkU447RWCXs) [GitHub](https://github.com/stevendz/payment_yt)<img src="https://i.ytimg.com/vi/HkU447RWCXs/maxresdefault.jpg" width="300">
+- [Soft UI Design In Flutter | Flutter UI Design | Flutter Tutorials | Neumorphism](https://www.youtube.com/watch?v=PsvvJSl37Bc) [GitHub](https://github.com/hasnentai/soft_ui)<img src="https://i.ytimg.com/vi/PsvvJSl37Bc/maxresdefault.jpg" width="300">
+- [Flutter - Beautiful Social App UI - Speed Coding - Part 1 Neumorphism](https://www.youtube.com/watch?v=q1NJKqtZ3DY) [GitHub](https://github.com/stevendz/social_yt) <img src="https://i.ytimg.com/vi/q1NJKqtZ3DY/maxresdefault.jpg" width="300">
+- [Flutter - Beautiful Social App UI - Speed Coding - Part 2 Neumorphism](https://www.youtube.com/watch?v=FvK_PegVp-0) [GitHub](https://github.com/stevendz/social_yt) <img src="https://i.ytimg.com/vi/FvK_PegVp-0/maxresdefault.jpg" width="300">
+- [Fitness App Dashboard - Flutter - Dark UI Concept Neumorphism](https://www.youtube.com/watch?v=80SWcIGVuSE) [GitHub](https://github.com/mlayah/soft_ui) <img src="https://i.ytimg.com/vi/80SWcIGVuSE/maxresdefault.jpg" width="300">
+
 #### Template
 #### Example
 - [Neumorphic ui kit for Flutter, 🕶️ dark mode compatible](https://github.com/Idean/Flutter-Neumorphic) by [Idean](https://www.idean.com/)
@@ -121,6 +128,7 @@ Skeuomorphic
 #### Open Source Apps
 - [Trak - A Cryptocurrency price tracker app build with Flutter and Dart Neumorphic](https://github.com/datttran/trak_app) <img src="https://github.com/datttran/trak_app/raw/master/images/image.png" width="300">
 - [COVID-19 Daily Statistics - Flutter Neumorphic](https://github.com/iballan/covid_19_daily_statistics) <img src="https://github.com/iballan/covid_19_daily_statistics/raw/master/ss/1.png" height="400">
+- [Neuromorphic Noticeboard App for University](https://github.com/Hash-Studios/ggsipu_notice) <img src="https://github.com/Hash-Studios/ggsipu_notice/raw/master/demo/GGSIPU_Mockup.jpg" width="300">
 
 #### Web
 #### Books
@@ -143,8 +151,12 @@ Skeuomorphic
 
 #### Plugins | Library | Package
 - [Neumorphism UI library for React Native](https://github.com/Jamyth/react-native-neu-element) <img src="https://camo.githubusercontent.com/3709bd611641bcdc84aa32f943fdac38e1484f3f/68747470733a2f2f692e696d6775722e636f6d2f6e6951763666646c2e6a7067" width="300">
+- [Neumorphism component library](https://github.com/ZanchiTheo/neumorphism-react) <img src="https://github.com/ZanchiTheo/neumorphism-react/raw/master/readme/readme_picture.png" width="300">
+
 
 #### Frameworks
+- [Flutter Neumorphism](https://flutterneumorphism.com/#/) <img src="https://github.com/Neelansh-ns/Flutter-Neumorphism/raw/master/images/image1.png" width="300">
+
 #### Games
 #### Open Source Apps
 #### Web
@@ -212,7 +224,7 @@ Skeuomorphic
 - [Neumorphic style built with Bootstrap CSS Framework](https://github.com/themesberg/neumorphism-ui-bootstrap) by [ThemesBerg](https://github.com/themesberg) <img src="https://camo.githubusercontent.com/7879c20a6b9323045aec56383bcc64ee7a089ec7/68747470733a2f2f7468656d6573626572672e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f7075626c69632f70726f64756374732f6e65756d6f72706869736d2d75692f6e65756d6f72706869736d2d75692d707265766965772e676966" width="300">
 - [Calculator made using HTML, CSS and JavaScript with Neumorphism/Soft UI style](https://github.com/theHocineSaad/Neumorphism-JavaScript-Calculator-with-Dark-Mode) <img src="https://camo.githubusercontent.com/042d2cac3aa8e3f46eb26e1f7e4c9fdc7a51a63a/68747470733a2f2f692e696d6775722e636f6d2f6f7a675a4968712e706e67" width="300">
 - [Nano library with integrated bootstrap to make easy Neumorphysm Designs](https://github.com/ChemaAlfonso/neumorph.scss) <img src="https://i1.wp.com/365webresources.com/wp-content/uploads/2020/03/Dark-Neomorphic-UI-Kit.jpg?ssl=1" width="300">
-
+- [Neumorphic CSS framework](https://github.com/Webments/neumorphic.css) <img src="" width="300">
 
 #### Games
 #### Open Source Apps
