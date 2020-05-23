@@ -1,9 +1,7 @@
 # Awesome Neomorphism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+- A curated list of awesome things related to the concept of Neumorphism
 
-Neomorphic
-Neomorphism
-Skeuomorphism
-Skeuomorphic
+Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuomorphic.
 
 - An awesome list that curates the best Neomorphism Concept & Neumorphic libraries, tools, design inspiration, tutorials, articles and more. Before going for the Neumorphism & Neumorphic design just understand the concept of Skeuomorphism from where the Neumorphism & Neumorphic design comes up. 
 
@@ -121,7 +119,7 @@ Skeuomorphic
 <img src="https://raw.githubusercontent.com/neumorphic/neumorphic.flutter/master/example/media/v0/all.gif" width="300">
 - [Clay Containers](https://github.com/mcaubrey/clay_containers) by [Michael Aubrey](https://github.com/mcaubrey)
 - [Slate is an alternative to Cards and other floating widgets Neumorphic Library](https://github.com/ejprok/slate) <img src="https://github.com/ejprok/slate/raw/master/assets/comparison.png" width="300">
-- 
+- [Assets Audio Player Flutter, compatible with android / ios / web, displays notifications](https://github.com/florent37/Flutter-AssetsAudioPlayer) <img src="https://github.com/florent37/Flutter-AssetsAudioPlayer/raw/master/medias/sample2.png" height="400">
 
 #### Frameworks
 #### Games
@@ -361,3 +359,7 @@ Skeuomorphic
 #### Web
 #### Books
 #### Community
+
+
+### Contributions
+Feel free to contribute. If you have worked on something amazing related to the concept of Neumorphism or you think I missed something in this list, feel free to add it to the list or share your ideas with me.
