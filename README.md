@@ -27,16 +27,15 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective](https://www.mdpi.com/2414-4088/2/2/31) - Comparative Study Published on 4 June 2018
 - [Skeuomorphism 101: An Intro to the Controversial Style - HubSpot](https://blog.hubspot.com/website/skeuomorphism) - published Apr 24, 2020
 
-## List of Video for the Skeuomorphism
+## Video of Skeuomorphism
 - [Skeuomorphism: Dan O'Hara at TEDxManchester](https://www.youtube.com/watch?v=kpFKsC4mi5I)
 
-## List of Books for the Neumorphism
 
 ### What is Neumorphism?
 - The main difference between Neumorphism and Skeumorphism is that Skeumorphism only focused on using shadows or gradients. However, Neumorphism focuses on using shadows to create design components which are raised from root layer or vice versa. This gives designs a transition from life-less representations to something more real and close to the world in which we live. And that's the motivation for this library.
 
 
-## Neumorphic - iOS | Android | Flutter | React Native | Xamarin | Web | Design Inspiration 
+# Neumorphic - iOS | Android | Flutter | React Native | Xamarin | Web | Design Inspiration 
 
 ### Neumorphic trends in iOS | Swift | SwiftUI | WatchOS | tvOS | iPadOS
 
@@ -47,6 +46,12 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Neomorphism using SwiftUI](https://prog.world/neomorphism-using-swiftui-part-1/) <img src="https://i2.wp.com/habrastorage.org/webt/1r/f1/ha/1rf1hanjn-9zhj0xhglha6e4lr0.jpeg?w=1160&ssl=1" width="300">
 
 #### Videos
+- [How to use neumorphism in SwiftUI](https://www.youtube.com/watch?v=z3tJdxwlo_Y) <img src="https://i.ytimg.com/vi/z3tJdxwlo_Y/maxresdefault.jpg" width="300">
+- [Neumorphism or Soft UI Tutorial - XD](https://www.youtube.com/watch?v=tAs59fxBDSU) <img src="https://i.ytimg.com/vi/tAs59fxBDSU/maxresdefault.jpg" width="300">
+- [Neumorphism Style Calculator Built with Swift 5 and Xcode](https://www.youtube.com/watch?v=PXjGgGgjC6c) [GitHub](https://github.com/deeptipandey111/Neomorphism) <img src="https://i.ytimg.com/vi/PXjGgGgjC6c/maxresdefault.jpg" width="300">
+- [How to Create Neumorphic Buttons in SwiftUI](https://www.youtube.com/watch?v=oMGD1Fj33iE) <img src="https://i.ytimg.com/vi/oMGD1Fj33iE/hqdefault.jpg" width="300">
+- [Neumorphic Design in SwiftUI](https://www.youtube.com/watch?v=lyzx5nUgE6M) <img src="https://i.ytimg.com/vi/lyzx5nUgE6M/maxresdefault.jpg" width="300">
+
 #### Template
 #### Example
 - [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
@@ -329,7 +334,7 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 #### Videos
 - [Could this be the BIGGEST UI Design Trend of 2020? #Neumorphism](https://www.youtube.com/watch?v=KlSLdEB3lzg) by [Gary Simon](https://twitter.com/designcoursecom)
 - [Soft UI Design in Adobe XD - Neumorphism](https://www.youtube.com/watch?v=G9yCM_rnC-w) by [Dansky](https://www.youtube.com/channel/UCAbq1eKey19tt-FfaIO1RMA)
-- 
+- [iOS 14 Concept - NEUMORPHIC Soft Design](https://www.youtube.com/watch?v=1dh7tgwvkdQ) <img src="https://i.ytimg.com/vi/1dh7tgwvkdQ/maxresdefault.jpg" width="300">
 
 #### Template | UI Kit | Component | Resources
 - [Neumorphism UI Elements for Sketch](https://www.uistore.design/items/neumorphic-ui-elements-for-sketch/) by [MazePixel](https://www.mazepixel.com/)
