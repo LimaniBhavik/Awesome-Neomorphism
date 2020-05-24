@@ -1,4 +1,4 @@
-# Awesome Neomorphism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+c# Awesome Neomorphism [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 - A curated list of awesome things related to the concept of Neumorphism
 
 Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuomorphic.
@@ -328,6 +328,11 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 
 
 ## Neumorphic Community
+- [Neomorphic LinkedIn Community](https://www.linkedin.com/groups/8935322/)
+- [Neomorphic Facebook Community](https://www.facebook.com/groups/279265529912427/)
+- [Neomorphic Quora Community](https://www.quora.com/q/oszderrctxzoudok)
+- [Neomorphic Pinterest Community](https://www.pinterest.es/limanibhavik/neomorphic-community/)
+- 
 
 
 
