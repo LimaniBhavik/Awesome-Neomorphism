@@ -52,7 +52,6 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [How to Create Neumorphic Buttons in SwiftUI](https://www.youtube.com/watch?v=oMGD1Fj33iE) <img src="https://i.ytimg.com/vi/oMGD1Fj33iE/hqdefault.jpg" width="300">
 - [Neumorphic Design in SwiftUI](https://www.youtube.com/watch?v=lyzx5nUgE6M) <img src="https://i.ytimg.com/vi/lyzx5nUgE6M/maxresdefault.jpg" width="300">
 
-#### Template
 #### Example
 - [How to Create a Neumorphic Design With SwiftUI](https://www.raywenderlich.com/7589178-how-to-create-a-neumorphic-design-with-swiftui) by [Yono Mittlefehldt](https://twitter.com/yonomitt)
 - [SwiftUI utility to build Neumorphism Soft UI](https://github.com/costachung/neumorphic) by [Costa Chung](https://twitter.com/costachung)
@@ -69,38 +68,23 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [NeumorphismTab](https://cocoapods.org/pods/NeumorphismTab) by [Fujii Yosuke](https://github.com/touyou)
 - [NeumorphismUI is a library that can be used with SwiftUI. Compatible with Swift Package Manager](https://github.com/tsuzukihashi/NeumorphismUI) <img src="https://camo.githubusercontent.com/de1b48a69fa2021f4dd315da0038db87c3046705/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f377035523639646759657769683645727651614776694f3143316f374762627342335474426444736d74596f31503862564c6c7364796d304d34547041386e6d64364f724773664662336662354b4d64446357717151354444515a7432626257696559424a464d567479745f566d6b6f5051424c34586e324133545f677a704943594842646837657054627a432d544c433071445463424d554f347461424e396a4d7a6f41646c76707339316473574a4441656c594677376e52344e7a4f595267335448316f783770466b6f4b2d56386e6f2d6247325672373631767037725135355f594968684e67754433716d32436b79546f54716a353979326f466b7376713343597a564659494e503139794c386e384a4d2d41305a6c6a6e47575f5a7a6b6746737162532d615149727078636a4759354d4e436f4c4e784f5f3349636b47324f344b7837573551426c524a57506856556b2d52684b6e5a62534c73577952426b64536e574366584151523068444d6c595277415850676c48494d67365558596230455f6a6c6749705433784a34683464655f4b564370586c616e596373736c674e3749675f6f6e5a716a55396d36346a6d5369373334634a4847762d6541616d626f356b33326769614c574b586e6b62482d77373639646b5f485065586b66514c5052356451794c6f4d3458316c475f716b46526d4d4552356a5142786b615753396755576c634142714f396b50314f5556746a694c52767139436c4e4163786b3442446252506e665646576852707036417168553050716950682d44684666782d4f4f72716c716f51366469554e433957464c305a4533335f517255415f4f36457039565354717a702d307a4e57683963544670624566487842496f676839735a7755436f5a417763496643693053667a6e37325f704956413144764c6a6b534f6e5131395669324e344b6f576859324c2d5a52476374584c4f57584e37346e4e366e3366386c6432582d766b4a475466614c3374357377306b5041366a4e6d3962474d4d6567436b313043727a794c7a34384c3d773231382d683437322d6e6f" width="300">
 - [A set of utilities and extensions to create depth in your views by using complex shadows](https://github.com/alexdrone/Surface) <img src="https://github.com/alexdrone/Surface/raw/master/docs_/switch.gif" width="300">
-- 
-#### Frameworks
-#### Games
+
 #### Apps 
 - [Neumorphism - Try Turn Off All Panels](https://apps.apple.com/us/app/neumorphism/id1497264656#?platform=iphone) by [Ninicode]
-#### Open Source Apps
-#### Web
-#### Books
-#### Community
 
 ### Neumorphic trends Android | Android Tablet | WearOS | Android TV | Android Auto | Smart Devices
 
-#### Articles
-#### Videos
-#### Template
 #### Example
 - [Simple UI Neumorphism](https://github.com/fornewid/neumorphism) <img src="https://github.com/fornewid/Neumorphism/raw/master/art/preview_light.gif" height="450">
 
 #### Plugins | Library | Package
 - [Native android library to easily convert android views to Neumorphism UI pattern view in Android app without create any custom drawable](https://github.com/GovindaPaliwal/Awesome-Neumorphism-Android-Library) <img src="https://github.com/GovindaPaliwal/Awesome-Neumorphism-Android-Library/raw/master/screenshot/orange_example.png" width="300">
 - [Android Neumorphic Library](https://github.com/sshadkany/Android_neumorphic) <img src="https://github.com/sshadkany/Android_neumorphic/raw/master/screenshots/3.gif" height="400">
-- 
-#### Frameworks
-#### Games
-#### Open Source Apps
-#### Web
-#### Books
-#### Community
 
+#### Apps
+- [Neumorphic Theme](https://play.google.com/store/apps/details?id=neumorphictheme.kustom.pack&hl=en_IN) <img src="https://lh3.googleusercontent.com/5dIxoIh-nW9jhhJ7kYZb86rK22zRwuHPTxqKxMSbVpqZyN4hQrjS6GCaL6_tx_Vm5Kc=w1440-h720-rw" width="300">
 
-### Flutter
-#### Contents for Flutter Neumorphic
+### Neumorphic trends in Flutter
 
 #### Articles
 - [Neumorphic designs with Flutter](https://medium.com/flutter-community/neumorphic-designs-in-flutter-eab9a4de2059) by [Ivan Cherepanov](https://medium.com/@av.codes)
@@ -112,7 +96,6 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Flutter - Beautiful Social App UI - Speed Coding - Part 2 Neumorphism](https://www.youtube.com/watch?v=FvK_PegVp-0) [GitHub](https://github.com/stevendz/social_yt) <img src="https://i.ytimg.com/vi/FvK_PegVp-0/maxresdefault.jpg" width="300">
 - [Fitness App Dashboard - Flutter - Dark UI Concept Neumorphism](https://www.youtube.com/watch?v=80SWcIGVuSE) [GitHub](https://github.com/mlayah/soft_ui) <img src="https://i.ytimg.com/vi/80SWcIGVuSE/maxresdefault.jpg" width="300">
 
-#### Template
 #### Example
 - [Neumorphic ui kit for Flutter, 🕶️ dark mode compatible](https://github.com/Idean/Flutter-Neumorphic) by [Idean](https://www.idean.com/)
 - [A Flutter package implement neumorphism design container with implicit animation](https://github.com/Kurogoma4D/animated_neumorphic) by [Kurogoma4D](https://github.com/Kurogoma4D)
@@ -126,24 +109,16 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Slate is an alternative to Cards and other floating widgets Neumorphic Library](https://github.com/ejprok/slate) <img src="https://github.com/ejprok/slate/raw/master/assets/comparison.png" width="300">
 - [Assets Audio Player Flutter, compatible with android / ios / web, displays notifications](https://github.com/florent37/Flutter-AssetsAudioPlayer) <img src="https://github.com/florent37/Flutter-AssetsAudioPlayer/raw/master/medias/sample2.png" height="400">
 
-#### Frameworks
-#### Games
 #### Open Source Apps
 - [Trak - A Cryptocurrency price tracker app build with Flutter and Dart Neumorphic](https://github.com/datttran/trak_app) <img src="https://github.com/datttran/trak_app/raw/master/images/image.png" width="300">
 - [COVID-19 Daily Statistics - Flutter Neumorphic](https://github.com/iballan/covid_19_daily_statistics) <img src="https://github.com/iballan/covid_19_daily_statistics/raw/master/ss/1.png" height="400">
 - [Neuromorphic Noticeboard App for University](https://github.com/Hash-Studios/ggsipu_notice) <img src="https://github.com/Hash-Studios/ggsipu_notice/raw/master/demo/GGSIPU_Mockup.jpg" width="300">
 
-#### Web
-#### Books
-#### Community
+### Neumorphic trends in React Native | ReactJS
 
-### React Native | ReactJS
-#### Contents for React Native Neumorphic
-
-#### Articles
 #### Videos
 - [React Native - Making Neumorphic smooth Button!](https://www.youtube.com/watch?v=9It1KchDkCo) by [DevasLife](https://www.youtube.com/channel/UC7yZ6keOGsvERMp2HaEbbXQ)
-#### Template
+
 #### Example
 - [Neo Skeuomorphism Style Simple UI](https://github.com/craftzdog/react-native-skeuomorphism-ui-example) by [Takuya Matsuyama](https://github.com/craftzdog)
 - [React Native Neomorph Shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) by [Daniel](https://github.com/tokkozhin) <img src="https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/shadows.gif" height="400">
@@ -151,6 +126,7 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Neumorphism in React Native - Music Player](https://github.com/graphtobinary/NeumorphismPlayerDesign) <img src="https://user-images.githubusercontent.com/3539228/79463227-2cf34e00-8016-11ea-90d6-ff2c7fa2f22d.png" height="400">
 - [React Hooks/Neumorphism UI style - Equation Iteration Solution](https://github.com/Crawler995/Equation-Iteration-Solution) <img src="https://camo.githubusercontent.com/29a35a25362a97f30d44d9de415e0bc5074f6203/68747470733a2f2f692e706f7374696d672e63632f6657384e38734e302f636c69656e742d707265766965772e706e67" width="300">
 - [Redux Neumorphic Tap Room](https://github.com/kwicz/redux-neumorphic-tap-room) <img src="https://github.com/kwicz/redux-neumorphic-tap-room/raw/master/public/LandingPage.png" width="300">
+- [Neumorphism UI library for react-native](https://github.com/Jamyth/react-native-neu-element) <img src="https://camo.githubusercontent.com/3709bd611641bcdc84aa32f943fdac38e1484f3f/68747470733a2f2f692e696d6775722e636f6d2f6e6951763666646c2e6a7067" height="400">
 
 #### Plugins | Library | Package
 - [Neumorphism UI library for React Native](https://github.com/Jamyth/react-native-neu-element) <img src="https://camo.githubusercontent.com/3709bd611641bcdc84aa32f943fdac38e1484f3f/68747470733a2f2f692e696d6775722e636f6d2f6e6951763666646c2e6a7067" width="300">
@@ -160,16 +136,8 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 #### Frameworks
 - [Flutter Neumorphism](https://flutterneumorphism.com/#/) <img src="https://github.com/Neelansh-ns/Flutter-Neumorphism/raw/master/images/image1.png" width="300">
 
-#### Games
-#### Open Source Apps
-#### Web
-#### Books
-#### Community
 
-
-
-## Web
-#### Contents for Web Neumorphic
+## Neumorphic trends in Web
 
 #### Articles
 - [Tiny Neumorphism UI Framework – Skeuos CSS](https://www.cssscript.com/neumorphism-ui-skeuos/) <img src="https://i0.wp.com/www.cssscript.com/wp-content/uploads/2020/03/Skeuos-CSS-Form-Fields.png?fit=620%2C517&ssl=1" width="300">
@@ -229,20 +197,16 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Nano library with integrated bootstrap to make easy Neumorphysm Designs](https://github.com/ChemaAlfonso/neumorph.scss) <img src="https://i1.wp.com/365webresources.com/wp-content/uploads/2020/03/Dark-Neomorphic-UI-Kit.jpg?ssl=1" width="300">
 - [Neumorphic CSS framework](https://github.com/Webments/neumorphic.css) <img src="" width="300">
 
-#### Games
-#### Open Source Apps
 #### Web
 - [Neumorphism is a play on words based on New + Skeuomorphism.](https://neumorphism.com/) by Neumorphism.
 - [Neomorphism Icons](https://codepen.io/Partical/full/PoqBYdx) <img src="https://codepen.io/Partical/pen/PoqBYdx/image/large.png" width="300">
 
 #### Books
 - [Designing User Interfaces](https://designingui.com/) - The most comprehensive UI Design eBook!
-#### Community
 
-## Design
-#### Contents for Design Neumorphic
+## Neumorphic trends in Design
 
-#### Designs
+#### Designs Inspiration
 - [Neumorphism - Inspirational Designs, illustrations, and graphic elements from the world’s best designers](https://dribbble.com/tags/neumorphism) on [Dribbble](https://dribbble.com)
 - [Designers & Developers who get the best UI Design Inspiration](https://uimovement.com/tag/neumorphism/) by [UIMovement](https://uimovement.com)
 - [Neumorphism Event Reminder/Skeuomorphism](https://dribbble.com/shots/9704162-Neumorphism-Event-Reminder-Skeuomorphism) by [Sandra Sunny](https://dribbble.com/Sunny_sandra)
@@ -321,6 +285,7 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Neumorphism icons](https://dribbble.com/shots/11473239-Neumorphism-icons) <img src="https://cdn.dribbble.com/users/1426677/screenshots/11473239/______0.5x.png" width="300">
 - [Neomorphic Login System Dark UI Design](https://www.uplabs.com/posts/neomorphic-login-system-dark-ui-design) <img src="https://assets.materialup.com/uploads/db54858d-12ea-4410-84d9-ebb58ba6ae20/preview.jpg" width="300">
 - [Apple Ipod in adobe XD (source file include free)](https://dribbble.com/shots/10155791-Apple-Ipod-in-adobe-XD-source-file-include-free) <img src="https://cdn.dribbble.com/users/507456/screenshots/10155791/media/942c22bd588f6182b37a340503435c5e.png" width="300">
+- [Credit Card Neumorphism Apple Watch](https://dribbble.com/shots/9250541-Neumorphism-apple-watch) <img src="https://cdn.dribbble.com/users/2335140/screenshots/9250541/artboard___1.png" width="300">
 
 #### Articles
 - [Skeuomorphism / Neumorphism UI Trend](https://www.themasterpicks.com/skeuomorphism-neumorphism-ui-trend/) by Masterpicks
@@ -353,6 +318,13 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [Newmorphic UI Button Dark set](https://creativemarket.com/Batareykin/4810319-Newmorphic-UI-button-dark-set) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8124168/600/400/m2/fpnw/wm1/traiz0ntnkk86sdnwchuhublcdxrywii3eoarrrz8psmzpaiisdh1frurthchigi-.jpg?1586760286&s=244a23f04b925b88cf893e5998034b9f" width="300">
 - [Neumorphic Mobile App UI Kit](https://creativemarket.com/alexdndz/4937323-Neumorphic-Mobile-App-UI-Kit) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8329527/580/386/m2/fpnw/wm1/4_%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C-1-.jpg?1589355412&s=7feb873797bea4f1af84e0b824daa411" width="300">
 - [Neumorph UI Kit on Device Screen](https://creativemarket.com/Batareykin/4891015-Neumorph-UI-kit-on-device-screen) <img src="https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/8254736/600/400/m2/fpnw/wm1/dgucfvjyjwwffc5mof0la2ayed7lxqoqcu32qslyryo93nnhymwcqrcppaov2708-.jpg?1588576797&s=336d1046eab0b99eae949a8770a29bdc" width="300">
+- [Neumorphic UI Kit For Adobe Xd](https://xdfile.com/neumorphic-ui-kit-for-adobe-xd/) <img src="https://xdfile.com/wp-content/uploads/2020/01/neumorphic-ui-kit-free-download-758x569.jpg" width="300">
+- [Free Neomorphic UI Kit XD](https://xdfile.com/free-neomorphic-ui-kit-xd/) <img src="https://xdfile.com/wp-content/uploads/2020/03/neomorphic-2-758x426.jpg" width="300">
+- [Figma Neumorphic Dark Elements](https://xdfile.com/figma-neumorphic-dark-elements/) <img src="https://xdfile.com/wp-content/uploads/2020/03/figma-neumorphic-dark-elements-758x364.jpg" width="300">
+- [Neumorphic Darkness UI Kit](https://xdfile.com/neumorphic-darkness-ui-kit/) <img src="https://xdfile.com/wp-content/uploads/2020/01/neomorphic-darkness-free-ui-kit-758x569.jpg" width="300">
+- [Neumorphic UI Kit Sketch](https://xdfile.com/neumorphic-ui-kit-sketch/) <img src="https://xdfile.com/wp-content/uploads/2020/02/Neumorphic-UI-Kit-Sketch-758x426.jpg" width="300">
+- [Neumorphism UI Kit PSD Template](https://psfiles.com/neumorphism-ui-kit-psd-template/) <img src="https://psfiles.com/wp-content/uploads/2020/02/russian-post-app-prilozhenie-pochty-rossii-free-psd-758x569.jpg" width="300">
+- [The Miracle Morning App | Neumorphism](https://www.behance.net/gallery/95555893/The-Miracle-Morning-App-Neumorphism) <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/dba97695555893.5e9de4a39d88c.png" width="300">
 
 
 #### Example
