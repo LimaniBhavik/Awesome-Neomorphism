@@ -327,15 +327,8 @@ Let's Understood the concept of Neomorphic | Neomorphism | Skeuomorphism | Skeuo
 - [The Miracle Morning App | Neumorphism](https://www.behance.net/gallery/95555893/The-Miracle-Morning-App-Neumorphism) <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/dba97695555893.5e9de4a39d88c.png" width="300">
 
 
-#### Example
-#### Plugins
+## Neumorphic Community
 
-#### Frameworks
-#### Games
-#### Open Source Apps
-#### Web
-#### Books
-#### Community
 
 
 ### Contributions
