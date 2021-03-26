@@ -2,7 +2,7 @@
 
 #### Articles
 - [Neumorphic designs with Flutter](https://medium.com/flutter-community/neumorphic-designs-in-flutter-eab9a4de2059) by [Ivan Cherepanov](https://medium.com/@av.codes)
-- [Card & Dial Neumorphism in Flutter | Web & Mobile] (https://tonyowen.medium.com/neumorphism-in-flutter-f46fe25bf9d4) by [Tony Owen](https://tonyowen.medium.com/) <<img src="https://miro.medium.com/max/700/1*spCo8YXWympW6LKUrLNdfQ.png" width="300">
+- [Card & Dial Neumorphism in Flutter | Web & Mobile](https://tonyowen.medium.com/neumorphism-in-flutter-f46fe25bf9d4) by [Tony Owen](https://tonyowen.medium.com/) <img src="https://miro.medium.com/max/700/1*spCo8YXWympW6LKUrLNdfQ.png" width="300">
 
 #### Videos
 - [Flutter - Neumorphism Payment App UI](https://www.youtube.com/watch?v=HkU447RWCXs) [GitHub](https://github.com/stevendz/payment_yt)<img src="https://i.ytimg.com/vi/HkU447RWCXs/maxresdefault.jpg" width="300">
